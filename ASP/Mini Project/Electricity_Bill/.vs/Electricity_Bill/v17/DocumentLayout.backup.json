@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5226DDCE-EA96-4FFC-99EC-44591CA7BA1B}|Electricity_Bill\\Electricity_Bill.csproj|c:\\dotnet_ass\\asp\\mini project\\electricity_bill\\electricity_bill\\billgeneration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5226DDCE-EA96-4FFC-99EC-44591CA7BA1B}|Electricity_Bill\\Electricity_Bill.csproj|solutionrelative:electricity_bill\\billgeneration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5226DDCE-EA96-4FFC-99EC-44591CA7BA1B}|Electricity_Bill\\Electricity_Bill.csproj|C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\electricity_bill\\addingbill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5226DDCE-EA96-4FFC-99EC-44591CA7BA1B}|Electricity_Bill\\Electricity_Bill.csproj|solutionrelative:electricity_bill\\addingbill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5226DDCE-EA96-4FFC-99EC-44591CA7BA1B}|Electricity_Bill\\Electricity_Bill.csproj|C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\electricity_bill\\addingbill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5226DDCE-EA96-4FFC-99EC-44591CA7BA1B}|Electricity_Bill\\Electricity_Bill.csproj|solutionrelative:electricity_bill\\addingbill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5226DDCE-EA96-4FFC-99EC-44591CA7BA1B}|Electricity_Bill\\Electricity_Bill.csproj|C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\electricity_bill\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5226DDCE-EA96-4FFC-99EC-44591CA7BA1B}|Electricity_Bill\\Electricity_Bill.csproj|solutionrelative:electricity_bill\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5226DDCE-EA96-4FFC-99EC-44591CA7BA1B}|Electricity_Bill\\Electricity_Bill.csproj|C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\electricity_bill\\logoutpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5226DDCE-EA96-4FFC-99EC-44591CA7BA1B}|Electricity_Bill\\Electricity_Bill.csproj|solutionrelative:electricity_bill\\logoutpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5226DDCE-EA96-4FFC-99EC-44591CA7BA1B}|Electricity_Bill\\Electricity_Bill.csproj|C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\electricity_bill\\electricitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5226DDCE-EA96-4FFC-99EC-44591CA7BA1B}|Electricity_Bill\\Electricity_Bill.csproj|solutionrelative:electricity_bill\\electricitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5226DDCE-EA96-4FFC-99EC-44591CA7BA1B}|Electricity_Bill\\Electricity_Bill.csproj|C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\electricity_bill\\electricityboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5226DDCE-EA96-4FFC-99EC-44591CA7BA1B}|Electricity_Bill\\Electricity_Bill.csproj|solutionrelative:electricity_bill\\electricityboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5226DDCE-EA96-4FFC-99EC-44591CA7BA1B}|Electricity_Bill\\Electricity_Bill.csproj|C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\electricity_bill\\logoutpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5226DDCE-EA96-4FFC-99EC-44591CA7BA1B}|Electricity_Bill\\Electricity_Bill.csproj|solutionrelative:electricity_bill\\logoutpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5226DDCE-EA96-4FFC-99EC-44591CA7BA1B}|Electricity_Bill\\Electricity_Bill.csproj|C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\electricity_bill\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5226DDCE-EA96-4FFC-99EC-44591CA7BA1B}|Electricity_Bill\\Electricity_Bill.csproj|solutionrelative:electricity_bill\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5226DDCE-EA96-4FFC-99EC-44591CA7BA1B}|Electricity_Bill\\Electricity_Bill.csproj|C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\electricity_bill\\billgeneration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5226DDCE-EA96-4FFC-99EC-44591CA7BA1B}|Electricity_Bill\\Electricity_Bill.csproj|solutionrelative:electricity_bill\\billgeneration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BillGeneration.aspx",
+              "DocumentMoniker": "C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\Electricity_Bill\\BillGeneration.aspx",
+              "RelativeDocumentMoniker": "Electricity_Bill\\BillGeneration.aspx",
+              "ToolTip": "C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\Electricity_Bill\\BillGeneration.aspx",
+              "RelativeToolTip": "Electricity_Bill\\BillGeneration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-07T14:30:47.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddingBill.aspx",
+              "DocumentMoniker": "C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\Electricity_Bill\\AddingBill.aspx",
+              "RelativeDocumentMoniker": "Electricity_Bill\\AddingBill.aspx",
+              "ToolTip": "C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\Electricity_Bill\\AddingBill.aspx",
+              "RelativeToolTip": "Electricity_Bill\\AddingBill.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-07T14:28:26.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.aspx.cs",
+              "DocumentMoniker": "C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\Electricity_Bill\\LoginPage.aspx.cs",
+              "RelativeDocumentMoniker": "Electricity_Bill\\LoginPage.aspx.cs",
+              "ToolTip": "C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\Electricity_Bill\\LoginPage.aspx.cs",
+              "RelativeToolTip": "Electricity_Bill\\LoginPage.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:38:39.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ElectricityBill.cs",
+              "DocumentMoniker": "C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\Electricity_Bill\\ElectricityBill.cs",
+              "RelativeDocumentMoniker": "Electricity_Bill\\ElectricityBill.cs",
+              "ToolTip": "C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\Electricity_Bill\\ElectricityBill.cs",
+              "RelativeToolTip": "Electricity_Bill\\ElectricityBill.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:29:03.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ElectricityBoard.cs",
+              "DocumentMoniker": "C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\Electricity_Bill\\ElectricityBoard.cs",
+              "RelativeDocumentMoniker": "Electricity_Bill\\ElectricityBoard.cs",
+              "ToolTip": "C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\Electricity_Bill\\ElectricityBoard.cs",
+              "RelativeToolTip": "Electricity_Bill\\ElectricityBoard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:29:37.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddingBill.aspx.cs",
+              "DocumentMoniker": "C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\Electricity_Bill\\AddingBill.aspx.cs",
+              "RelativeDocumentMoniker": "Electricity_Bill\\AddingBill.aspx.cs",
+              "ToolTip": "C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\Electricity_Bill\\AddingBill.aspx.cs",
+              "RelativeToolTip": "Electricity_Bill\\AddingBill.aspx.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwDgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:33:24.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogoutPage.aspx.cs",
+              "DocumentMoniker": "C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\Electricity_Bill\\LogoutPage.aspx.cs",
+              "RelativeDocumentMoniker": "Electricity_Bill\\LogoutPage.aspx.cs",
+              "ToolTip": "C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\Electricity_Bill\\LogoutPage.aspx.cs",
+              "RelativeToolTip": "Electricity_Bill\\LogoutPage.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:41:08.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogoutPage.aspx",
+              "DocumentMoniker": "C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\Electricity_Bill\\LogoutPage.aspx",
+              "RelativeDocumentMoniker": "Electricity_Bill\\LogoutPage.aspx",
+              "ToolTip": "C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\Electricity_Bill\\LogoutPage.aspx",
+              "RelativeToolTip": "Electricity_Bill\\LogoutPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-07T14:30:22.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginPage.aspx",
+              "DocumentMoniker": "C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\Electricity_Bill\\LoginPage.aspx",
+              "RelativeDocumentMoniker": "Electricity_Bill\\LoginPage.aspx",
+              "ToolTip": "C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\Electricity_Bill\\LoginPage.aspx",
+              "RelativeToolTip": "Electricity_Bill\\LoginPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-07T14:29:59.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BillGeneration.aspx.cs",
+              "DocumentMoniker": "C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\Electricity_Bill\\BillGeneration.aspx.cs",
+              "RelativeDocumentMoniker": "Electricity_Bill\\BillGeneration.aspx.cs",
+              "ToolTip": "C:\\Dotnet_Ass\\ASP\\Mini Project\\Electricity_Bill\\Electricity_Bill\\BillGeneration.aspx.cs",
+              "RelativeToolTip": "Electricity_Bill\\BillGeneration.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:42:13.816Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

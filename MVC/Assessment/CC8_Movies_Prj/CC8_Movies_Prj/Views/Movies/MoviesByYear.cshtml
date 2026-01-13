@@ -1,0 +1,43 @@
+﻿@model IEnumerable<CC8_Movies_Prj.Models.Movies>
+
+@{
+    ViewBag.Title = "Movies by Year";
+}
+
+<h2>Search Movies by Year</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        <label>Enter Year:</label>
+        <input type="number" name="year" class="form-control" value="@ViewBag.Year" />
+    </div>
+
+    <input type="submit" value="Search" class="btn btn-primary" />
+}
+
+<hr />
+
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+    <p>@ViewBag.Message</p>
+}
+else if (Model != null && Model.Any())
+{
+    <h3>Movies Released in @ViewBag.Year</h3>
+    <table class="table table-bordered">
+        <tr>
+            <th>Movie Name</th>
+            <th>Director</th>
+            <th>Release Date</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Moviename</td>
+                <td>@item.DirectorName</td>
+                <td>@item.DateofRelease.ToShortDateString()</td>
+            </tr>
+        }
+    </table>
+}

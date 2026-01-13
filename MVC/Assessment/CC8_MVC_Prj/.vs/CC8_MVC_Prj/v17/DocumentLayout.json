@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dotnet_Training\\WEB_API\\CC8_MVC_Prj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{917F721B-E5FE-4AD6-A382-43E29A371FF5}|CC8_MVC_Prj\\CC8_MVC_Prj.csproj|c:\\dotnet_training\\web_api\\cc8_mvc_prj\\cc8_mvc_prj\\views\\code\\germanycustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{917F721B-E5FE-4AD6-A382-43E29A371FF5}|CC8_MVC_Prj\\CC8_MVC_Prj.csproj|solutionrelative:cc8_mvc_prj\\views\\code\\germanycustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917F721B-E5FE-4AD6-A382-43E29A371FF5}|CC8_MVC_Prj\\CC8_MVC_Prj.csproj|c:\\dotnet_training\\web_api\\cc8_mvc_prj\\cc8_mvc_prj\\views\\code\\customerorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{917F721B-E5FE-4AD6-A382-43E29A371FF5}|CC8_MVC_Prj\\CC8_MVC_Prj.csproj|solutionrelative:cc8_mvc_prj\\views\\code\\customerorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917F721B-E5FE-4AD6-A382-43E29A371FF5}|CC8_MVC_Prj\\CC8_MVC_Prj.csproj|c:\\dotnet_training\\web_api\\cc8_mvc_prj\\cc8_mvc_prj\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{917F721B-E5FE-4AD6-A382-43E29A371FF5}|CC8_MVC_Prj\\CC8_MVC_Prj.csproj|solutionrelative:cc8_mvc_prj\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917F721B-E5FE-4AD6-A382-43E29A371FF5}|CC8_MVC_Prj\\CC8_MVC_Prj.csproj|c:\\dotnet_training\\web_api\\cc8_mvc_prj\\cc8_mvc_prj\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{917F721B-E5FE-4AD6-A382-43E29A371FF5}|CC8_MVC_Prj\\CC8_MVC_Prj.csproj|solutionrelative:cc8_mvc_prj\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerOrder.cshtml",
+              "DocumentMoniker": "C:\\Dotnet_Training\\WEB_API\\CC8_MVC_Prj\\CC8_MVC_Prj\\Views\\Code\\CustomerOrder.cshtml",
+              "RelativeDocumentMoniker": "CC8_MVC_Prj\\Views\\Code\\CustomerOrder.cshtml",
+              "ToolTip": "C:\\Dotnet_Training\\WEB_API\\CC8_MVC_Prj\\CC8_MVC_Prj\\Views\\Code\\CustomerOrder.cshtml",
+              "RelativeToolTip": "CC8_MVC_Prj\\Views\\Code\\CustomerOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T04:57:29.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GermanyCustomers.cshtml",
+              "DocumentMoniker": "C:\\Dotnet_Training\\WEB_API\\CC8_MVC_Prj\\CC8_MVC_Prj\\Views\\Code\\GermanyCustomers.cshtml",
+              "RelativeDocumentMoniker": "CC8_MVC_Prj\\Views\\Code\\GermanyCustomers.cshtml",
+              "ToolTip": "C:\\Dotnet_Training\\WEB_API\\CC8_MVC_Prj\\CC8_MVC_Prj\\Views\\Code\\GermanyCustomers.cshtml",
+              "RelativeToolTip": "CC8_MVC_Prj\\Views\\Code\\GermanyCustomers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T04:56:55.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CodeController.cs",
+              "DocumentMoniker": "C:\\Dotnet_Training\\WEB_API\\CC8_MVC_Prj\\CC8_MVC_Prj\\Controllers\\CodeController.cs",
+              "RelativeDocumentMoniker": "CC8_MVC_Prj\\Controllers\\CodeController.cs",
+              "ToolTip": "C:\\Dotnet_Training\\WEB_API\\CC8_MVC_Prj\\CC8_MVC_Prj\\Controllers\\CodeController.cs",
+              "RelativeToolTip": "CC8_MVC_Prj\\Controllers\\CodeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:51:58.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Dotnet_Training\\WEB_API\\CC8_MVC_Prj\\CC8_MVC_Prj\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "CC8_MVC_Prj\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Dotnet_Training\\WEB_API\\CC8_MVC_Prj\\CC8_MVC_Prj\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "CC8_MVC_Prj\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-01-13T04:50:54.566Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

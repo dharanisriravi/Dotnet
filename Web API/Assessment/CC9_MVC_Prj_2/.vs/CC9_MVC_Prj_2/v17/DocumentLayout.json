@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dotnet_Training\\WEB_API\\CC9_MVC_Prj_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{623751D4-0739-4235-B115-C12640F4C1F9}|CC9_MVC_Prj_2\\CC9_MVC_Prj_2.csproj|c:\\dotnet_training\\web_api\\cc9_mvc_prj_2\\cc9_mvc_prj_2\\controllers\\oderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623751D4-0739-4235-B115-C12640F4C1F9}|CC9_MVC_Prj_2\\CC9_MVC_Prj_2.csproj|solutionrelative:cc9_mvc_prj_2\\controllers\\oderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OdersController.cs",
+              "DocumentMoniker": "C:\\Dotnet_Training\\WEB_API\\CC9_MVC_Prj_2\\CC9_MVC_Prj_2\\Controllers\\OdersController.cs",
+              "RelativeDocumentMoniker": "CC9_MVC_Prj_2\\Controllers\\OdersController.cs",
+              "ToolTip": "C:\\Dotnet_Training\\WEB_API\\CC9_MVC_Prj_2\\CC9_MVC_Prj_2\\Controllers\\OdersController.cs",
+              "RelativeToolTip": "CC9_MVC_Prj_2\\Controllers\\OdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:55:00.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
